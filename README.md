@@ -1,4 +1,4 @@
-# WhatsApp-Data-Analysis-and-Visualization-using-Python
+# WhatsApp Data Analysis and Visualization
 
 A data analysis project that explores **WhatsApp chat data (.txt)** exported from your personal or group conversations.  
 This project focuses on **extracting insights** and **visualizing communication patterns** using Python’s data science libraries.
