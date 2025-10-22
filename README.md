@@ -7,10 +7,9 @@ This project focuses on **extracting insights** and **visualizing communication 
 
 ## 🚀 Features
 
-- 📅 Analyze chat activity by **date, month, and hour**
-- 👥 Identify **most active users** in group chats
-- 💬 Count **total messages, words, emojis, and links**
-- 😀 **Emoji analysis** and usage frequency
-- 🔤 **Most common words** and message patterns
-- 📈 Rich **data visualizations** using Matplotlib & Seaborn
-- ☁️ **WordCloud** representation for frequent words
+-  Analyze chat activity by **date, month, and hour**
+-  Identify **most active users** in group chats
+-  Count **total messages, words, emojis, and links**
+-  **Emoji analysis** and usage frequency
+-  **Most common words** and message patterns
+-  Rich **data visualizations** using Matplotlib & Seaborn
